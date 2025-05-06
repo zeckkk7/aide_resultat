@@ -52,7 +52,9 @@ Pendant ce temps d'analyse ne faites rien de spécial, il faut juste attendre. C
 Une fois que l'analyse est terminée, trois possibilitées peuvent s'en tirer. 
 
 
-La première est : ![image_vert](images/rien.png)
+La première possibilitée est : 
+
+![image_vert](images/rien.png)
 
 Si vous avez ce résultat alors le logiciel n'a rien détecté sur votre appareil. Mais attention, ce n'est pas parce que le logiciel n'a rien détecté que votre appareil est forcément sans logiciel espion dessus.
 Essayez de faire plusieurs analyse afin d'être sûr que le logiciel n'a pas fait un faux-négatif.
@@ -64,4 +66,6 @@ La deuxième possibilitée est la suivante : ![image_orange](images/peutetre.png
 Si vous avez ce message orange alors il faut faire attention. Cela ne veut pas forcément dire que votre appareil est infesté par un logiciel espion mais que le logiciel SpyGuard ne connait pas tous les liens analysés. Par exemple, il pourrait vous dire ce message alors que vous êtes allé sur youtube. 
 
 
-Et la dernière possibilitée est : ![image_rouge](images/)
+Et la dernière possibilitée est : 
+
+![image_rouge](images/spyware.png)
