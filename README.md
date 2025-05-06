@@ -1,32 +1,23 @@
 # Bienvenue sur la page d'aide et compréhension pour les utilisateurs de SpyGuard
 
-Sur cette page, des explications seront données sur comment utiliser le logiciel SpyGuard ainsi que comment interprêter et comprendre le résultat affiché.
+Cette page explique comment utiliser SpyGuard et interpréter ses résultats.
 
-Veuillez cliquer sur ce <a href="https://localhost:8000" target="_blank">lien</a> pour utiliser le logicel SpyGuard afin de détecter la présence ou non d'un Spyware.
-
-Si vous souhaitez modifier les paramètres ou les comprendre veuillez cliquer sur ce <a href="https://zeckkk7.github.io/aide_spyguard" target="_blank">lien</a>
-
+- Utilisez ce <a href="https://localhost:8000" target="_blank">lien</a> pour accéder au logiciel et vérifier la présence de logiciels espions.
+- Consultez les <a href="https://zeckkk7.github.io/aide_spyguard" target="_blank">paramètres</a> pour des options avancées.
 
 ## Page d'accueil
 
 Voici la page d'accueil : ![image_home](images/pagehome.png)
 
 
-Sur cette page vous avez le bouton **Allons-y** qui permet de lancer le logiciel.
+Sur la page d'accueil, cliquez sur **Allons-y !** pour démarrer SpyGuard.
 
 
 ## Création du point d'accès
 
-Une fois qu'on clique sur le bouton **Allons-y**, la création du point d'accès se met en place : ![image_ap](images/creationap.png)
-
-
-
-Une fois le point d'accès créé, nous arrivons sur cette page : 
+Après avoir cliqué sur Allons-y, un point d'accès Wi-Fi sera créé. Connectez votre appareil via le QR code ou les identifiants affichés.
 
 ![image_ap](images/ap.png)
-
-
-Sur cette page nous voyons, un QR code qui va vous permettre de vous connecter directement au Wi-fi créé par l'ordinateur en le scannant avec votre appareil (téléphone, pc portable, tablette ...) ou alors vous pouvez utiliser les identifiants donnés.
 
 
 ## Capture
@@ -49,8 +40,7 @@ Une fois que vous avez arrêté la capture, le logiciel va rentrer en phase d'an
 
 ![image_ana](images/analyse.png)
 
-Pendant ce temps d'analyse ne faites rien de particulier, il suffit d'attendre. Cela peut être assez long alors patientez si l'analyse prend du temps.
-
+Pendant l'analyse, attendez patiemment, cela peut prendre du temps.
 
 ## Résultat de l'analyse
 
