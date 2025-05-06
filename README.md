@@ -106,4 +106,4 @@ Un deuxième exemple de rapport (résultat orange) est le suivant :
 Sur ce rapport nous voyons différents éléments qui sont considérés comme des éléments "dangereux" dans le sens où c'est une connexion qui est initiée vers un lien que le logiciel SpyGuard ne connait pas. Donc pour lui, c'est suspect. Voilà pourquoi ça apparait en orange.
 
 Pour chaque élément il faut essayer de se renseigner, de regarder sur internet vers quoi ils pointent. Vous pouvez même demander à une IA si le lien est sûr ou pas.
-Une fois que vous êtes assuré que l'élément n'est pas dangereux alors vous pouvez l'ajouter à la liste blanche en cliquant sur le bouton **Add to the whitelist**, afin que dans le futur si le même lien est détecé alors celui-ci ne sera pas détecter en tant que lien malvaillent
+Une fois que vous êtes assuré que l'élément n'est pas dangereux alors vous pouvez l'ajouter à la liste blanche en cliquant sur le bouton **Add to the whitelist**, afin que dans le futur si le même lien est détecté alors celui-ci ne sera pas détecter en tant que lien malvaillant
