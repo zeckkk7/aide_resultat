@@ -46,6 +46,7 @@ Une fois les 15mins passées, cliquer sur le bouton **Arrêter la capture**.
 ## Analyse
 
 Une fois que vous avez arrêté la capture, le logiciel va rentrer en phase d'analyse : 
+
 ![image_ana](images/analyse.png)
 
 Pendant ce temps d'analyse ne faites rien de particulier, il suffit d'attendre. Cela peut être assez long alors patientez si l'analyse prend du temps.
