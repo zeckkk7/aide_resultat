@@ -50,8 +50,7 @@ La première possibilité est :
 
 ![image_vert](images/rien.png)
 
-Si vous avez ce message en vert alors le logiciel n'a rien détecté sur votre appareil. Mais attention, ce n'est pas parce que le logiciel SpyGuard n'a rien détecté que votre appareil est forcément exempt de logiciels espions.
-Le résultat n'est pas fiable à 100%. Il l'est à 95%. 
+Aucun logiciel espion détecté, mais cela n'exclut pas complètement leur présence. En effet ils peuvent être indétectable ou alors pas détectable par SpyGuard.
 
 
 La deuxième possibilité est la suivante : 
