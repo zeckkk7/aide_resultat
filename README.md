@@ -22,7 +22,9 @@ Une fois qu'on clique sur le bouton **Allons-y**, la création du point d'accès
 
 
 
-Une fois le point d'accès créé, nous arrivons sur cette page : ![image_ap](images/ap.png)
+Une fois le point d'accès créé, nous arrivons sur cette page : 
+
+![image_ap](images/ap.png)
 
 
 Sur cette page nous voyons, un QR code qui va vous permettre de vous connecter directement au Wi-fi créé par l'ordinateur en le scannant avec votre appareil (téléphoné, pc portable, tablette ...) ou alors vous pouvez utiliser les identifiants donnés.
