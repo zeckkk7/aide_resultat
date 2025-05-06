@@ -1,0 +1,1 @@
+# Bienvenue sur la page d'aide et compréhension pour les utilisateurs de SpyGuard
