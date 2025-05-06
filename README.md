@@ -2,6 +2,7 @@
 
 Sur cette page, des explications seront données sur comment utiliser le logiciel SpyGuard ainsi que comment interprêter et comprendre le résultat affiché.
 
+Veuillez cliquer sur ce <a href="https://localhost8000" target="_blank">lien</a> pour utiliser le logicel SpyGuard afin de détecter la présence ou non d'un Spyware.
 Si vous souhaitez modifier les paramètres ou les comprendre veuillez cliquer sur ce <a href="https://zeckkk7.github.io/aide_spyguard" target="_blank">lien</a>
 
 
