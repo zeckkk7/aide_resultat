@@ -2,4 +2,12 @@
 
 Sur cette page, des explications seront données sur comment utiliser le logiciel SpyGuard ainsi que comment interprêter et comprendre le résultat affiché.
 
-Si vous souhaitez modifier les paramètres ou les comprendre veuillez cliquer sur ce [lien](https://zeckkk7.github.io/aide_spyguard)
+Si vous souhaitez modifier les paramètres ou les comprendre veuillez cliquer sur ce <a href="https://zeckkk7.github.io/aide_spyguard" target="_blank">lien</a>
+
+
+## Page d'accueil
+
+Voici la page d'accueil : ![image_home](images/pagehome.png)
+
+
+Sur cette page vous avez le bouton 
