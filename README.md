@@ -27,11 +27,11 @@ Une fois que vous êtes connecté au réseau Wi-fi avec votre appareil, il ne vo
 ![image_capture](images/capture.png)
 
 Afin que l'analyse soit la plus proche de la réalité possible et le taux d'erreur le plus faible possible nous vous recommandons de faire cela :
-- Lancer l'analyse pendant 15mins
+- Lancer l'analyse pendant 15min
 - Utiliser votre appareil normalement (photo, sms, réseaux sociaux, etc ...)
 
 
-Une fois les 15mins passées, cliquer sur le bouton **Arrêter la capture**.
+Une fois les 15min passées, cliquer sur le bouton **Arrêter la capture**.
 
 ## Analyse
 
