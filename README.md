@@ -51,8 +51,8 @@ La première possibilité est :
 
 ![image_vert](images/rien.png)
 
-Si vous avez ce message en vert alors le logiciel n'a rien détecté sur votre appareil. Mais attention, ce n'est pas parce que le logiciel SpyGuard n'a rien détecté que votre appareil soit forcément exempt de logiciels espions.
-Le résultat n'est pas fiable à 100%. 
+Si vous avez ce message en vert alors le logiciel n'a rien détecté sur votre appareil. Mais attention, ce n'est pas parce que le logiciel SpyGuard n'a rien détecté que votre appareil est forcément exempt de logiciels espions.
+Le résultat n'est pas fiable à 100%. Il l'est à 95%. 
 
 
 La deuxième possibilité est la suivante : 
@@ -60,7 +60,7 @@ La deuxième possibilité est la suivante :
 ![image_orange](images/peutetre.png)
 
 
-Si vous avez ce message orange alors il faut faire attention. Cela ne veut pas forcément dire que votre appareil est infecté par un logiciel espion mais que le logiciel SpyGuard ne connaît pas tous les liens analysés. Par exemple, il pourrait vous dire ce message alors que vous êtes allé sur youtube. Il ne faut donc pas directement s'inquiéter mais plutôt se renseigner.
+Si vous avez ce message orange alors il faut faire attention. Cela ne veut pas forcément dire que votre appareil est infecté par un logiciel espion mais que le logiciel SpyGuard ne connaît pas tous les liens analysés.
 
 
 Et la dernière possibilité est : 
@@ -69,4 +69,4 @@ Et la dernière possibilité est :
 
 Si vous avez ce message en rouge alors votre appareil contient un logiciel espion. **Attention**, cela peut être un faux-positif il faut donc faire preuve de calme et ne pas paniquer. Veuillez faire appel à la police afin de faire examiner votre appareil.
 
-**Un rapport est créé mais celui-ci est destiné à une personne technique, qui connaît un minimum le réseau, internet ...**
+**Un rapport est généré suite à l'analyse pour les spécialistes.**
