@@ -29,7 +29,6 @@ Une fois que vous êtes connecté au réseau Wi-fi avec votre appareil, il ne vo
 Afin que l'analyse soit la plus proche de la réalité possible et le taux d'erreur le plus faible possible nous vous recommandons de faire cela :
 - Lancer l'analyse pendant 15mins
 - Utiliser votre appareil normalement (photo, sms, réseaux sociaux, etc ...)
-- Essayer de faire le test chez vous, car des logiciels pourraient être uniquement présents chez vous.
 
 
 Une fois les 15mins passées, cliquer sur le bouton **Arrêter la capture**.
