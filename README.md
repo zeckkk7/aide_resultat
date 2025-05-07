@@ -2,7 +2,7 @@
 
 Cette page explique comment utiliser SpyGuard et interpréter ses résultats.
 
-- Utilisez ce <a href="https://localhost:8000" target="_blank">lien</a> pour accéder au logiciel et vérifier la présence de logiciels espions.
+- Utilisez ce <a href="https://spyguard.local:8000" target="_blank">lien</a> pour accéder au logiciel et vérifier la présence de logiciels espions.
 - Consultez les <a href="https://zeckkk7.github.io/aide_spyguard" target="_blank">paramètres</a> pour des options avancées.
 
 ## Page d'accueil
