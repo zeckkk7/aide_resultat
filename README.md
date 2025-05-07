@@ -67,4 +67,4 @@ Et la dernière possibilité est :
 
 Si vous avez ce message en rouge alors votre appareil contient un logiciel espion. **Attention**, cela peut être un faux-positif il faut donc faire preuve de calme et ne pas paniquer. Veuillez faire appel à la police afin de faire examiner votre appareil.
 
-**Un rapport est généré (sauvegarder dans /home/pi/Downloads sur le rpi) suite à l'analyse pour les spécialistes.**
+**Un rapport est généré (sauvegardé dans /home/pi/Downloads sur le rpi) suite à l'analyse pour les spécialistes.**
